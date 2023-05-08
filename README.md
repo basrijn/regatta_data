@@ -37,7 +37,7 @@ Each following line contains a single result
 |  Field | Description   |
 | :------------ | :------------ |
 |Place|Place of the participant in finishing the race|
-|ID|ID of the Racer, assigned by Meet Managment software (could be a bib number). Can be found in the .evt file|
+|ID|ID of the crew. Typically set to the same value as the lane|
 |lane|For sprint races, the lane number. For time trials, the bow number|
 |last name|Last name|
 |first name|First name|
